@@ -16,7 +16,7 @@ export default function About() {
             </h3>
 
             <p className="text-gray-300 text-lg leading-relaxed">
-              I'm Jerome Hipolito, a dedicated full stack developer with a
+              I&apos;m Jerome Hipolito, a dedicated full stack developer with a
               passion for creating robust and scalable web applications. My
               journey in software development has led me to master both frontend
               and backend technologies, allowing me to build complete solutions
@@ -32,10 +32,10 @@ export default function About() {
             </p>
 
             <p className="text-gray-300 text-lg leading-relaxed">
-              When I'm not coding, I'm constantly learning new technologies and
-              best practices to stay at the forefront of web development. I
-              believe in writing clean, maintainable code and creating user
-              experiences that make a difference.
+              When I&apos;m not coding, I&apos;m constantly learning new
+              technologies and best practices to stay at the forefront of web
+              development. I believe in writing clean, maintainable code and
+              creating user experiences that make a difference.
             </p>
 
             <div className="flex flex-wrap gap-4 pt-4">

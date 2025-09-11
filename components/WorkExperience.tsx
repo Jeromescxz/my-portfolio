@@ -85,7 +85,7 @@ export default function WorkExperience() {
         </div>
 
         <div className="space-y-8">
-          {workExperience.map((job, index) => (
+          {workExperience.map((job) => (
             <div
               key={job.id}
               className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-8 border border-slate-700/50 hover:border-purple-500/30 transition-all duration-300"

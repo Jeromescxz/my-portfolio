@@ -30,7 +30,7 @@ export default function Hero() {
 
       <div className="text-center z-10 max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-          Hi, I'm{" "}
+          Hi, I&apos;m{" "}
           <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
             Jerome Hipolito
           </span>

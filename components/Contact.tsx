@@ -35,8 +35,8 @@ export default function Contact() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-purple-400 to-pink-400 mx-auto mb-6"></div>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Ready to start your next project? Let's discuss how I can help bring
-            your ideas to life.
+            Ready to start your next project? Let&apos;s discuss how I can help
+            bring your ideas to life.
           </p>
         </div>
 
@@ -45,13 +45,13 @@ export default function Contact() {
           <div className="space-y-8">
             <div>
               <h3 className="text-2xl font-semibold text-white mb-6">
-                Let's Connect
+                Let&apos;s Connect
               </h3>
               <p className="text-gray-300 text-lg leading-relaxed mb-8">
-                I'm always interested in new opportunities and exciting
+                I&apos;m always interested in new opportunities and exciting
                 projects. Whether you need a full-stack developer for your team
-                or want to discuss a custom web solution, I'd love to hear from
-                you.
+                or want to discuss a custom web solution, I&apos;d love to hear
+                from you.
               </p>
             </div>
 

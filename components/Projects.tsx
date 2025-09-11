@@ -110,7 +110,7 @@ export default function Projects() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-purple-400 to-pink-400 mx-auto mb-6"></div>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Here are some of the projects I've worked on, showcasing my
+            Here are some of the projects I&apos;ve worked on, showcasing my
             expertise in full-stack development
           </p>
         </div>
