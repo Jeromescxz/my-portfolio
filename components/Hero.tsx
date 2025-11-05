@@ -56,7 +56,7 @@ export default function Hero() {
             View My Work
           </a>
           <a
-            href="/utils/Jerome Resume.pdf (1).pdf"
+            href="/utils/Jerome Resume latest.pdf"
             download="Jerome_Hipolito_Resume.pdf"
             className="px-8 py-4 bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-cyan-700 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center space-x-2"
           >

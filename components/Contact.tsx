@@ -85,7 +85,7 @@ export default function Contact() {
                 <div>
                   <h4 className="text-white font-semibold">Resume</h4>
                   <a
-                    href="/utils/Jerome Resume.pdf (1).pdf"
+                    href="/utils/Jerome Resume latest.pdf"
                     download="Jerome_Hipolito_Resume.pdf"
                     className="text-purple-400 hover:text-purple-300 transition-colors duration-200 flex items-center space-x-1"
                   >
